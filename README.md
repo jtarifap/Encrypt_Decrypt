@@ -8,7 +8,7 @@
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tjtarifap/encrypt_decrypt.git
+git clone https://github.com/jtarifap/encrypt_decrypt.git
 cd encrypt_decrypt
 
 # Instala la dependencia necesaria
