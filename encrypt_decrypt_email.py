@@ -10,9 +10,9 @@ from cryptography.hazmat.backends import default_backend
 # ======= CONFIGURACIÓN EMAIL ==========
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USER = 'jtarifa@gmail.com'   # << Poner aquí el correo saliente
-SMTP_PASS = 'Jorget38'         # << Contraseña o app password (NO tu contraseña normal si usas Gmail)
-DEST_EMAIL = 't4r1@protonmail.com'
+SMTP_USER = 'xxx'   # << Poner aquí el correo saliente
+SMTP_PASS = 'xxxx'         # << Contraseña o app password (NO tu contraseña normal si usas Gmail)
+DEST_EMAIL = 'xxxx'
 # =======================================
 
 def send_email(subject, body):
